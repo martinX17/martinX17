@@ -10,7 +10,7 @@ I work across the stack — from **React Native mobile apps** to **React / Next.
 
 ### Mobile Application Developer — ChampionXI Games Pvt Ltd
 
-📍 Bangalore | 🗓 Sep 2024 – Present
+📍 WFH | 🗓 Oct 2024 – Present
 
 - Developed and maintained a production-level fantasy gaming mobile application
 - Built core features like:
