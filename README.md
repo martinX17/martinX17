@@ -9,18 +9,25 @@ I work across the stack — from **React Native mobile apps** to **React / Next.
 ## 💼 Experience
 
 ### Mobile Application Developer — ChampionXI Games Pvt Ltd
+**(Worked as a Full-Stack Developer across Mobile, Backend & Web)**
 
-📍 WFH | 🗓 Oct 2024 – Jun 2026
+📍 **Work From Home** | 🗓 **15 Oct 2024 – 16 Jun 2026**
 
-- Developed and maintained a production-level fantasy gaming mobile application
-- Built core features like:
+- Developed and maintained production-grade **React Native** mobile applications for a fantasy sports platform.
+- Contributed across the full technology stack, including **React.js** frontend, **Java Spring Boot** backend, and mobile development.
+- Built and maintained **RESTful APIs** using **Java, Spring Boot, Spring Data JPA, Hibernate, and Maven**.
+- Developed responsive web interfaces using **React.js** for internal and customer-facing applications.
+- Implemented core application features, including:
   - Match listings
-  - Team formation
+  - Team creation
   - Contests & leaderboards
-  - Real-time updates
-- Integrated **Razorpay** for secure payments
-- Worked with **REST APIs** to fetch live match and contest data
-- Focused on performance optimization and smooth user experience
+  - Wallet & transactions
+  - User authentication & profiles
+  - Real-time match updates
+- Integrated **Razorpay** payment gateway for secure wallet recharges and online transactions.
+- Worked with relational databases to implement business logic and data persistence.
+- Collaborated with cross-functional teams throughout the complete software development lifecycle, from feature development to deployment and maintenance.
+- Optimized application performance, API efficiency, and overall user experience across mobile and web platforms.
 
 ---
 
